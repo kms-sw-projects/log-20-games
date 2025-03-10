@@ -6,7 +6,7 @@ author: "KMS"
 
 remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
+plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 base_url: /log-20-games
