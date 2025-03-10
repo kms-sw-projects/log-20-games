@@ -1,5 +1,39 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 title: pohly's 20 game challenge log
 description: Will try to write a logbook over my progress in the 20 games challenge.
+author: "KMS"
+
+theme: minima
+#remote_theme: pages-themes/midnight@v0.2.0
+#plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+base_url: /gh-pages-minima-starter
+repository: kms-sw-projects/log-20-games
+
+# Minima social links
+github_username: kms-sw-projects
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%d-%m-%Y"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
