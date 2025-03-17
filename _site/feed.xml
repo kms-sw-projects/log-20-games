@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T21:59:10+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">pohly’s 20 games challenge logbook</title><subtitle>This is attempt at documenting my way through the 20 games challenge which can be found here: https://20_games_challenge.gitlab.io</subtitle><entry><title type="html">Pong logbook</title><link href="http://localhost:4000/2025/03/17/pong.html" rel="alternate" type="text/html" title="Pong logbook" /><published>2025-03-17T00:00:00+01:00</published><updated>2025-03-17T00:00:00+01:00</updated><id>http://localhost:4000/2025/03/17/pong</id><content type="html" xml:base="http://localhost:4000/2025/03/17/pong.html"><![CDATA[<h1>Pong</h1>
+
+<ul id="toc" class="section-nav">
+<li class="toc-entry toc-h1"><a href="#pong">Pong</a>
+<ul>
+<li class="toc-entry toc-h2"><a href="#overview">Overview</a></li>
+<li class="toc-entry toc-h2"><a href="#-implementation"> Implementation</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#-getting-started-a-new-project"> Getting started: A new project</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<p>The first (and easiest) game to be made as part of the 20 games challenge is pong.</p>
+
+<h2>Overview</h2>
+<p>The game is quite simple, and contains in principle only five relevant elements:</p>
+
+<p>1) A left player 2) A right player, 3) A ball, 4) An upper wall, 5) A lower wall.</p>
+
+<p>The (each) player controls a paddle and tries to not let the ball get past it. The upper and lower walls will bounce the ball back, as will each paddle. If the ball leaves the arena on either site, the other player will get a point.</p>
+
+<p>The finished product looks, in my case, something like the following:</p>
+
+<p><strong>Main menu screen</strong></p>
+
+<p><img src="/assets/images/pong/pong_1.png" alt="An image of the main menu" /></p>
+
+<p><strong>Actual ingame screen</strong></p>
+
+<p>As we can see, there is also a simple score display counter as well as a (purely optical) divider in the middle of the “arena”.</p>
+
+<p><img src="/assets/images/pong/pong_2.png" alt="An image of the ingame screen" /></p>
+
+<h2> Implementation</h2>
+<h3> Getting started: A new project</h3>
+<p>Alright, enough impressions. Let’s get started. We make an empty Godot project that we call Pong. I use the legacy renderer for hardware reasons (my dev device is too old for the vulkan renderer), but this doesn’t matter too much.</p>
+
+<p><img src="/assets/images/pong/pong_2.png" alt="An image of the main menu" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Pong]]></summary></entry></feed>
