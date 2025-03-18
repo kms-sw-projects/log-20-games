@@ -23,16 +23,13 @@ email: dummy@pohlytheismus.de
 description: >- # this means to ignore newlines until "baseurl:"
     This is attempt at documenting my way through the 20 games challenge which can be found here: https://20_games_challenge.gitlab.io
 baseurl: "/log-20-games/" # the subpath of your site, e.g. /blog
-url: "https://kms-sw-projects.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kms-sw-projects.github.io/"
 github_username:  kms-sw-projects
-image-path: _images
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-toc
-include:
-  - _images
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
