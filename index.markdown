@@ -10,10 +10,3 @@ layout: home
 
 Here, I am trying to document my journey through the [20 games challenge](https://20_games_challenge.gitlab.io).
 
-{% for post in site.posts %}
-
-{{ post.excerpt }}
-
-[Read More]({{ post.url }})
-
-{% endfor %}
