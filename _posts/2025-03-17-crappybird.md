@@ -1,5 +1,5 @@
 ---
-title: Crappy bird logbook
+title: Crappy Bird logbook
 layout: default
 toc: true
 ---
