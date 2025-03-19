@@ -1,10 +1,10 @@
 ---
-title: Useful tools and things
+title: Useful stuff
 layout: default
 toc: true
 ---
 
-While learning how to put together games, there is a vast amount of knowledge and "how-to:s" to sift through. I find "doing" often the best way of learning something. Some resources, however, I found quite useful for the process. The following is an incomplete list of such material.
+When learning how to develop games there is a vast amount of knowledge absorb and "how-to:s" to sift through. Here as in other areas, I find "doing" the best way of learning. Some resources, however, were quite useful for me during this process. The following is an incomplete list of such material.
 
 <h1> Reading material</h1>
 
@@ -27,7 +27,7 @@ While learning how to put together games, there is a vast amount of knowledge an
 
     The holy grail of video introductions. Take a few days off to watch (and practice) twelve(!) hours of introductory content. Great resource.
 
-* [DevWorks channel](https://www.youtube.com/channel/UCSehnx-yuPok8rOWlPIGGOQ) 
+* [DevWorms channel](https://www.youtube.com/channel/UCSehnx-yuPok8rOWlPIGGOQ) 
 
     This person has a bunch of more concrete, topic-focused (and shorter) tutorials that I found highly enjoyable.
 
