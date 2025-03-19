@@ -30,11 +30,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-toc
+header_pages:
+  - usefulTools.md
+  - about.markdown
+
+show_excerpts: false
 minima:
-  nav_pages:
-    - about.md
-    - usefulTools.md
-  show_excerpts: true
   date_format: "%d.%m.%Y"
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -6,7 +6,5 @@
 layout: home
 ---
 
-**Welcome** to this little piece of the web. 
-
-Here, I am trying to document my journey through the [20 games challenge](https://20_games_challenge.gitlab.io).
+**Welcome** to this little piece of the web where I try to document my journey through the [20 games challenge](https://20_games_challenge.gitlab.io).
 
