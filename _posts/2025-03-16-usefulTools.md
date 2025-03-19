@@ -4,7 +4,7 @@ layout: default
 toc: true
 ---
 
-While learning how to put together games, there is a vast amount of knowledge and "how-to:s" to sift through. I find "doing" often the best way of learning something, but over time I found some resources that I found useful for the process. This is an incomplete list of such things.
+While learning how to put together games, there is a vast amount of knowledge and "how-to:s" to sift through. I find "doing" often the best way of learning something. Some resources, however, I found quite useful for the process. The following is an incomplete list of such material.
 
 <h1> Reading material</h1>
 
@@ -33,5 +33,5 @@ While learning how to put together games, there is a vast amount of knowledge an
 
 * [Nonsensical 2D](https://www.youtube.com/channel/UC735U5ZCdMk_e0ycJyEjmWA) 
 
-    It's more art related. Some discussions on different topics about 2D art, combined with great tutorials. Very helpful for someone as artistically untalented as me - give it a try if you are looking for input in this direction. He is also Swedish which makes for explanations presented with a wonderful accent.
+    (Game) Art-focused channel. Some discussions on different topics about 2D art, combined with great tutorials. Very helpful for someone as artistically untalented as me - give it a try if you are looking for input in this direction. He is also Swedish which makes for explanations presented with a wonderful accent.
 
