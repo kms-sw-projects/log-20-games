@@ -35,3 +35,8 @@ When learning how to develop games there is a vast amount of knowledge absorb an
 
     (Game) Art-focused channel. Some discussions on different topics about 2D art, combined with great tutorials. Very helpful for someone as artistically untalented as me - give it a try if you are looking for input in this direction. He is also Swedish which makes for explanations presented with a wonderful accent.
 
+
+<h1> Art / Drawing / Graphics tutorials </h1>
+* [How to make a wood texture in GIMP](https://agatedragon.blog/2024/02/13/gimp-wood-texture/) 
+
+    If you ever wondered how you make a wood-texture graphic, this is the easy tutorial for it. It's not at all the way I thought it worked.
